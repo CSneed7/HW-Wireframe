@@ -14,20 +14,20 @@ header {
     background-color: #ebebeb;
     margin-bottom: 20px;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
 }
 
 .nav {
     background-color: #ebebeb;
     margin-bottom: 20px;
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
 }
 
 #section {
     padding: 20px;
     background-color: #ebebeb;
-    margin: 20px;
+    margin: 10px;
     width: 45%;
 }
 
@@ -57,16 +57,16 @@ header {
     margin: 10px;
     background-color: #ebebeb;
     position: relative;
-    top: -338px;
-    width: 32.6%;
-    left: 500px;
+    top: -328px;
+    width: 35.9%;
+    left: 480px;
     height: 200px;
 }
 
 #footer {
     padding: 20px;
     background-color: #ebebeb;
-    margin: 20px;
+    margin: 10px;
     position: relative;
-    bottom: 340px;
+    bottom: 320px;
 }
